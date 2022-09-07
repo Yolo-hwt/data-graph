@@ -1,0 +1,668 @@
+[
+    {
+        "relationName": "提出",
+        "source": "两个凡是",
+        "target": "汪东兴"
+    },
+    {
+        "relationName": "中心人物",
+        "source": "两个凡是",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "两个凡是",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "中心人物",
+        "source": "两个凡是",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "两个凡是",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "中心人物",
+        "source": "两个凡是",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "两个凡是",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "决策者",
+        "source": "恢复高考",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "决策者",
+        "source": "恢复高考",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "决策者",
+        "source": "恢复高考",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "作者",
+        "source": "《实践是检验真理的唯一标准》",
+        "target": "孙长江"
+    },
+    {
+        "relationName": "作者",
+        "source": "《实践是检验真理的唯一标准》",
+        "target": "胡福明"
+    },
+    {
+        "relationName": "作者",
+        "source": "《实践是检验真理的唯一标准》",
+        "target": "孙长江"
+    },
+    {
+        "relationName": "作者",
+        "source": "《实践是检验真理的唯一标准》",
+        "target": "胡福明"
+    },
+    {
+        "relationName": "作者",
+        "source": "《实践是检验真理的唯一标准》",
+        "target": "孙长江"
+    },
+    {
+        "relationName": "作者",
+        "source": "《实践是检验真理的唯一标准》",
+        "target": "胡福明"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《解放思想，实事求是，团结一致向前看》",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《解放思想，实事求是，团结一致向前看》",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《解放思想，实事求是，团结一致向前看》",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《解放思想，实事求是，团结一致向前看》",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《解放思想，实事求是，团结一致向前看》",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《解放思想，实事求是，团结一致向前看》",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "主持",
+        "source": "十一届三中全会",
+        "target": "华国锋"
+    },
+    {
+        "relationName": "涉及",
+        "source": "十一届三中全会",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "十一届三中全会",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "十一届三中全会",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "十一届三中全会",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "十一届三中全会",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "十一届三中全会",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《坚持四项基本原则》",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《坚持四项基本原则》",
+        "target": "华国锋"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《坚持四项基本原则》",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《坚持四项基本原则》",
+        "target": "华国锋"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《坚持四项基本原则》",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《坚持四项基本原则》",
+        "target": "华国锋"
+    },
+    {
+        "relationName": "提出",
+        "source": "经济特区",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《关于建国以来党的若干历史问题的决议》",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "指挥",
+        "source": "《关于建国以来党的若干历史问题的决议》",
+        "target": "胡耀邦"
+    },
+    {
+        "relationName": "指挥",
+        "source": "《关于建国以来党的若干历史问题的决议》",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《关于建国以来党的若干历史问题的决议》",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《关于建国以来党的若干历史问题的决议》",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《关于为刘少奇同志平反的决议》",
+        "target": "刘少奇"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《关于为刘少奇同志平反的决议》",
+        "target": "刘少奇"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《关于为刘少奇同志平反的决议》",
+        "target": "刘少奇"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《党和国家领导制度的改革》",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《党和国家领导制度的改革》",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《党和国家领导制度的改革》",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "规划",
+        "source": "珠海经济特区成立",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "厦门经济特区成立",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "厦门经济特区成立",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "厦门经济特区成立",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "规划",
+        "source": "深圳经济特区成立",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "受审",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "江青"
+    },
+    {
+        "relationName": "受审",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "林彪"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "周宇驰"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "王洪文"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "李作鹏"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "姚文元"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "叶群"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "谢富治"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "吴法宪"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "邱会作"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "江腾蛟"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "张春桥"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "黄永胜"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "林立果"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "康生"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "陈伯达"
+    },
+    {
+        "relationName": "受审",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "江青"
+    },
+    {
+        "relationName": "受审",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "林彪"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "周宇驰"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "王洪文"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "李作鹏"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "姚文元"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "叶群"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "谢富治"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "吴法宪"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "邱会作"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "江腾蛟"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "张春桥"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "黄永胜"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "林立果"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "康生"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "陈伯达"
+    },
+    {
+        "relationName": "受审",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "江青"
+    },
+    {
+        "relationName": "受审",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "林彪"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "周宇驰"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "王洪文"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "李作鹏"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "姚文元"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "叶群"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "谢富治"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "吴法宪"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "邱会作"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "江腾蛟"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "张春桥"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "黄永胜"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "林立果"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "康生"
+    },
+    {
+        "relationName": "涉及",
+        "source": "审判林彪、江青反革命集团案",
+        "target": "陈伯达"
+    },
+    {
+        "relationName": "2月7日",
+        "source": "1977年",
+        "target": "两个凡是"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "1977年",
+        "target": "恢复高考"
+    },
+    {
+        "relationName": "5月10日",
+        "source": "1978年",
+        "target": "《实践是检验真理的唯一标准》"
+    },
+    {
+        "relationName": "6月31日",
+        "source": "1978年",
+        "target": "关于真理标准问题的讨论"
+    },
+    {
+        "relationName": "11月31日",
+        "source": "1978年",
+        "target": "《解放思想，实事求是，团结一致向前看》"
+    },
+    {
+        "relationName": "12月18日",
+        "source": "1978年",
+        "target": "十一届三中全会"
+    },
+    {
+        "relationName": "3月31日",
+        "source": "1979年",
+        "target": "《坚持四项基本原则》"
+    },
+    {
+        "relationName": "4月31日",
+        "source": "1979年",
+        "target": "经济特区"
+    },
+    {
+        "relationName": "8月17日",
+        "source": "1979年",
+        "target": "中共中央关于清理历史遗留问题中涉及到有关中央文件的处理办法的通知"
+    },
+    {
+        "relationName": "11月31日",
+        "source": "1979年",
+        "target": "《关于建国以来党的若干历史问题的决议》"
+    },
+    {
+        "relationName": "2月29日",
+        "source": "1980年",
+        "target": "《关于为刘少奇同志平反的决议》"
+    },
+    {
+        "relationName": "8月31日",
+        "source": "1980年",
+        "target": "《党和国家领导制度的改革》"
+    },
+    {
+        "relationName": "8月31日",
+        "source": "1980年",
+        "target": "珠海经济特区成立"
+    },
+    {
+        "relationName": "8月31日",
+        "source": "1980年",
+        "target": "厦门经济特区成立"
+    },
+    {
+        "relationName": "8月31日",
+        "source": "1980年",
+        "target": "深圳经济特区成立"
+    },
+    {
+        "relationName": "8月31日",
+        "source": "1980年",
+        "target": "汕头经济特区成立"
+    },
+    {
+        "relationName": "9月29日",
+        "source": "1980年",
+        "target": "审判林彪、江青反革命集团案"
+    },
+    {
+        "relationName": "2月31日",
+        "source": "1982年",
+        "target": "中共中央关于建立老干部退休制度的决定"
+    },
+    {
+        "relationName": "7月31日",
+        "source": "1983年",
+        "target": "中国宝安集团股份有限公司成立"
+    },
+    {
+        "relationName": "9月14日",
+        "source": "1983年",
+        "target": "中国石油化工集团有限公司成立"
+    },
+    {
+        "relationName": "4月31日",
+        "source": "1984年",
+        "target": "开放十四个沿海城市"
+    },
+    {
+        "relationName": "2月31日",
+        "source": "1985年",
+        "target": "三大经济圈形成"
+    },
+    [
+        {
+            "target": "1977年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1978年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1979年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1980年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1982年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1983年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1984年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1985年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ]
+]

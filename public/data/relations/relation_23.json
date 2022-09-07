@@ -1,0 +1,215 @@
+[
+    {
+        "relationName": "飞行乘组",
+        "source": "神舟五号",
+        "target": "杨利伟"
+    },
+    {
+        "relationName": "设计",
+        "source": "神舟五号",
+        "target": "戚发轫"
+    },
+    {
+        "relationName": "飞行乘组",
+        "source": "神舟五号",
+        "target": "杨利伟"
+    },
+    {
+        "relationName": "飞行乘组",
+        "source": "神舟五号",
+        "target": "杨利伟"
+    },
+    {
+        "relationName": "涉及",
+        "source": "首届两岸经贸论坛举行（2006年4月14日—15日）",
+        "target": "贾庆林"
+    },
+    {
+        "relationName": "涉及",
+        "source": "首届两岸经贸论坛举行（2006年4月14日—15日）",
+        "target": "贾庆林"
+    },
+    {
+        "relationName": "涉及",
+        "source": "首届两岸经贸论坛举行（2006年4月14日—15日）",
+        "target": "贾庆林"
+    },
+    {
+        "relationName": "涉及",
+        "source": "两岸“三通”",
+        "target": "叶剑英"
+    },
+    {
+        "relationName": "涉及",
+        "source": "两岸“三通”",
+        "target": "叶剑英"
+    },
+    {
+        "relationName": "涉及",
+        "source": "两岸“三通”",
+        "target": "叶剑英"
+    },
+    {
+        "relationName": "10月15日",
+        "source": "2003年",
+        "target": "神舟五号"
+    },
+    {
+        "relationName": "3月14日",
+        "source": "2005年",
+        "target": "《反分裂国家法》颁布"
+    },
+    {
+        "relationName": "4月14日",
+        "source": "2006年",
+        "target": "首届两岸经贸论坛举行（2006年4月14日—15日）"
+    },
+    {
+        "relationName": "10月24日",
+        "source": "2007年",
+        "target": "嫦娥一号"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "2007年",
+        "target": "美国次贷危机"
+    },
+    {
+        "relationName": "5月12日",
+        "source": "2008年",
+        "target": "5·12汶川地震"
+    },
+    {
+        "relationName": "6月31日",
+        "source": "2008年",
+        "target": "两岸“三通”"
+    },
+    {
+        "relationName": "8月8日",
+        "source": "2008年",
+        "target": "2008年北京奥运会"
+    },
+    {
+        "relationName": "8月31日",
+        "source": "2008年",
+        "target": "京津城际铁路"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "2008年",
+        "target": "金融危机"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "2008年",
+        "target": "《中共中央关于推进农村改革发展若干重大问题的决定》"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "2008年",
+        "target": "农村合作医疗制度"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "2008年",
+        "target": "中国海军索马里护航"
+    },
+    {
+        "relationName": "7月5日",
+        "source": "2009年",
+        "target": "7·5乌鲁木齐打砸抢烧严重暴力犯罪事件"
+    },
+    {
+        "relationName": "5月1日",
+        "source": "2010年",
+        "target": "中国2010年上海世界博览会"
+    },
+    {
+        "relationName": "6月31日",
+        "source": "2010年",
+        "target": "《海峡两岸经济合作框架协议》"
+    },
+    {
+        "relationName": "8月7日",
+        "source": "2010年",
+        "target": "8·7甘肃舟曲特大泥石流"
+    },
+    {
+        "relationName": "6月28日",
+        "source": "2011年",
+        "target": "大陆居民赴台个人游"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "2011年",
+        "target": "《中华人民共和国国民经济和社会发展第十二个五年规划纲要》"
+    },
+    {
+        "relationName": "9月25日",
+        "source": "2012年",
+        "target": "辽宁号航空母舰下水"
+    },
+    [
+        {
+            "target": "2003年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "2005年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "2006年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "2007年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "2008年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "2009年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "2010年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "2011年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "2012年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ]
+]

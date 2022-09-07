@@ -1,0 +1,564 @@
+[
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十八次全国代表大会",
+        "target": "李源潮"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十八次全国代表大会",
+        "target": "刘云山"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十八次全国代表大会",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十八次全国代表大会",
+        "target": "李源潮"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十八次全国代表大会",
+        "target": "刘云山"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十八次全国代表大会",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十八次全国代表大会",
+        "target": "李源潮"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十八次全国代表大会",
+        "target": "刘云山"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十八次全国代表大会",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "坚定不移沿着中国特色社会主义道路前进，为全面建成小康社会而奋斗",
+        "target": "胡锦涛"
+    },
+    {
+        "relationName": "涉及",
+        "source": "坚定不移沿着中国特色社会主义道路前进，为全面建成小康社会而奋斗",
+        "target": "胡锦涛"
+    },
+    {
+        "relationName": "涉及",
+        "source": "坚定不移沿着中国特色社会主义道路前进，为全面建成小康社会而奋斗",
+        "target": "胡锦涛"
+    },
+    {
+        "relationName": "提出",
+        "source": "五位一体",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "2012年中央经济工作会议",
+        "target": "温家宝"
+    },
+    {
+        "relationName": "涉及",
+        "source": "2012年中央经济工作会议",
+        "target": "李克强"
+    },
+    {
+        "relationName": "涉及",
+        "source": "2012年中央经济工作会议",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "2012年中央经济工作会议",
+        "target": "温家宝"
+    },
+    {
+        "relationName": "涉及",
+        "source": "2012年中央经济工作会议",
+        "target": "李克强"
+    },
+    {
+        "relationName": "涉及",
+        "source": "2012年中央经济工作会议",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "2012年中央经济工作会议",
+        "target": "温家宝"
+    },
+    {
+        "relationName": "涉及",
+        "source": "2012年中央经济工作会议",
+        "target": "李克强"
+    },
+    {
+        "relationName": "涉及",
+        "source": "2012年中央经济工作会议",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "创新驱动发展战略",
+        "target": "李克强"
+    },
+    {
+        "relationName": "涉及",
+        "source": "创新驱动发展战略",
+        "target": "李克强"
+    },
+    {
+        "relationName": "涉及",
+        "source": "创新驱动发展战略",
+        "target": "李克强"
+    },
+    {
+        "relationName": "涉及",
+        "source": "精准扶贫提出",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "精准扶贫提出",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "精准扶贫提出",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《中共中央关于全面深化改革若干重大问题的决定》",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《中共中央关于全面深化改革若干重大问题的决定》",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《中共中央关于全面深化改革若干重大问题的决定》",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "一带一路提出",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "一带一路提出",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "一带一路提出",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国人民抗日战争胜利纪念日",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国人民抗日战争胜利纪念日",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国人民抗日战争胜利纪念日",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "南京大屠杀死难者国家公祭日设立",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "南京大屠杀死难者国家公祭日设立",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "南京大屠杀死难者国家公祭日设立",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "三严三实",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "三严三实",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "三严三实",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "烈士纪念日",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "烈士纪念日",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "烈士纪念日",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《中共中央关于全面推进依法治国若干重大问题的决定》",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《中共中央关于全面推进依法治国若干重大问题的决定》",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《中共中央关于全面推进依法治国若干重大问题的决定》",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "国家宪法日",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "国家宪法日",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "国家宪法日",
+        "target": "习近平"
+    },
+    {
+        "relationName": "提出",
+        "source": "四个全面提出",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "供给侧结构性改革",
+        "target": "李克强"
+    },
+    {
+        "relationName": "涉及",
+        "source": "供给侧结构性改革",
+        "target": "李克强"
+    },
+    {
+        "relationName": "涉及",
+        "source": "供给侧结构性改革",
+        "target": "李克强"
+    },
+    {
+        "relationName": "涉及",
+        "source": "宪法宣誓制度实施",
+        "target": "李克强"
+    },
+    {
+        "relationName": "涉及",
+        "source": "宪法宣誓制度实施",
+        "target": "李克强"
+    },
+    {
+        "relationName": "涉及",
+        "source": "宪法宣誓制度实施",
+        "target": "李克强"
+    },
+    {
+        "relationName": "涉及",
+        "source": "四个自信提出",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "四个自信提出",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "四个自信提出",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《中国落实2030年可持续发展议程国别方案》",
+        "target": "李克强"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《中国落实2030年可持续发展议程国别方案》",
+        "target": "李克强"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《中国落实2030年可持续发展议程国别方案》",
+        "target": "李克强"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《中国共产党党内监督条例》通过",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《中国共产党党内监督条例》通过",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《中国共产党党内监督条例》通过",
+        "target": "习近平"
+    },
+    {
+        "relationName": "11月10日",
+        "source": "2010年",
+        "target": "《关于实行党风廉政建设责任制的规定》"
+    },
+    {
+        "relationName": "11月8日",
+        "source": "2012年",
+        "target": "中国共产党第十八次全国代表大会"
+    },
+    {
+        "relationName": "11月8日",
+        "source": "2012年",
+        "target": "坚定不移沿着中国特色社会主义道路前进，为全面建成小康社会而奋斗"
+    },
+    {
+        "relationName": "11月17日",
+        "source": "2012年",
+        "target": "五位一体"
+    },
+    {
+        "relationName": "12月15日",
+        "source": "2012年",
+        "target": "2012年中央经济工作会议"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "2012年",
+        "target": "中共中央政治局关于改进工作作风密切联系群众的规定"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "2012年",
+        "target": "创新驱动发展战略"
+    },
+    {
+        "relationName": "9月29日",
+        "source": "2013年",
+        "target": "中国（上海）自由贸易试验区建立"
+    },
+    {
+        "relationName": "11月31日",
+        "source": "2013年",
+        "target": "精准扶贫提出"
+    },
+    {
+        "relationName": "12月23日",
+        "source": "2013年",
+        "target": "《关于培育和践行社会主义核心价值观的意见》"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "2013年",
+        "target": "《中共中央关于全面深化改革若干重大问题的决定》"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "2013年",
+        "target": "一带一路提出"
+    },
+    {
+        "relationName": "2月27日",
+        "source": "2014年",
+        "target": "中国人民抗日战争胜利纪念日"
+    },
+    {
+        "relationName": "2月27日",
+        "source": "2014年",
+        "target": "南京大屠杀死难者国家公祭日设立"
+    },
+    {
+        "relationName": "3月9日",
+        "source": "2014年",
+        "target": "三严三实"
+    },
+    {
+        "relationName": "9月30日",
+        "source": "2014年",
+        "target": "烈士纪念日"
+    },
+    {
+        "relationName": "10月23日",
+        "source": "2014年",
+        "target": "《中共中央关于全面推进依法治国若干重大问题的决定》"
+    },
+    {
+        "relationName": "11月1日",
+        "source": "2014年",
+        "target": "国家宪法日"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "2014年",
+        "target": "四个全面提出"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "2014年",
+        "target": "《国家新型城镇化规划（2014-2020年）》"
+    },
+    {
+        "relationName": "1月1日",
+        "source": "2015年",
+        "target": "新环境保护法"
+    },
+    {
+        "relationName": "5月31日",
+        "source": "2015年",
+        "target": "《中国共产党统一战线工作条例(试行)》"
+    },
+    {
+        "relationName": "8月1日",
+        "source": "2015年",
+        "target": "《全国海洋主体功能区规划》"
+    },
+    {
+        "relationName": "9月11日",
+        "source": "2015年",
+        "target": "《生态文明体制改革总体方案》通过"
+    },
+    {
+        "relationName": "9月31日",
+        "source": "2015年",
+        "target": "生态文明体制改革"
+    },
+    {
+        "relationName": "11月10日",
+        "source": "2015年",
+        "target": "供给侧结构性改革"
+    },
+    {
+        "relationName": "11月23日",
+        "source": "2015年",
+        "target": "中共中央国务院关于打赢脱贫攻坚战的决定"
+    },
+    {
+        "relationName": "1月1日",
+        "source": "2016年",
+        "target": "宪法宣誓制度实施"
+    },
+    {
+        "relationName": "7月1日",
+        "source": "2016年",
+        "target": "四个自信提出"
+    },
+    {
+        "relationName": "8月31日",
+        "source": "2016年",
+        "target": "《关于防止干部”带病提拔“的意见》"
+    },
+    {
+        "relationName": "9月19日",
+        "source": "2016年",
+        "target": "《中国落实2030年可持续发展议程国别方案》"
+    },
+    {
+        "relationName": "10月27日",
+        "source": "2016年",
+        "target": "《关于新形势下党内政治生活的若干准则》"
+    },
+    {
+        "relationName": "10月27日",
+        "source": "2016年",
+        "target": "《中国共产党党内监督条例》通过"
+    },
+    {
+        "relationName": "10月31日",
+        "source": "2016年",
+        "target": "《“健康中国2030”规划纲要》"
+    },
+    {
+        "relationName": "12月25日",
+        "source": "2016年",
+        "target": "《中华人民共和国公共文化服务保障法》颁布"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "2016年",
+        "target": "”两学一做“"
+    },
+    [
+        {
+            "target": "2010年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "2012年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "2013年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "2014年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "2015年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "2016年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ]
+]

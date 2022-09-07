@@ -1,0 +1,867 @@
+[
+	{
+		"relationName": "涉及",
+		"source": "翻译《共产党宣言》",
+		"target": "陈望道"
+	},
+	{
+		"relationName": "涉及",
+		"source": "商讨建立中国共产党",
+		"target": "陈独秀"
+	},
+	{
+		"relationName": "涉及",
+		"source": "商讨建立中国共产党",
+		"target": "李大钊"
+	},
+	{
+		"relationName": "涉及",
+		"source": "马克思学说研究会成立",
+		"target": "李大钊"
+	},
+	{
+		"relationName": "涉及",
+		"source": "马克思学说研究会成立",
+		"target": "马克思"
+	},
+	{
+		"relationName": "涉及",
+		"source": "俄共代表来华",
+		"target": "陈独秀"
+	},
+	{
+		"relationName": "涉及",
+		"source": "俄共代表来华",
+		"target": "李大钊"
+	},
+	{
+		"relationName": "涉及",
+		"source": "武汉共产党早期组织成立",
+		"target": "张国恩"
+	},
+	{
+		"relationName": "涉及",
+		"source": "武汉共产党早期组织成立",
+		"target": "董必武"
+	},
+	{
+		"relationName": "涉及",
+		"source": "武汉共产党早期组织成立",
+		"target": "李汉俊"
+	},
+	{
+		"relationName": "涉及",
+		"source": "武汉共产党早期组织成立",
+		"target": "刘伯垂"
+	},
+	{
+		"relationName": "涉及",
+		"source": "武汉共产党早期组织成立",
+		"target": "陈潭秋"
+	},
+	{
+		"relationName": "涉及",
+		"source": "武汉共产党早期组织成立",
+		"target": "陈独秀"
+	},
+	{
+		"relationName": "涉及",
+		"source": "武汉共产党早期组织成立",
+		"target": "包惠僧"
+	},
+	{
+		"relationName": "涉及",
+		"source": "长沙共产党早期组织成立",
+		"target": "何叔衡"
+	},
+	{
+		"relationName": "涉及",
+		"source": "长沙共产党早期组织成立",
+		"target": "李大钊"
+	},
+	{
+		"relationName": "涉及",
+		"source": "长沙共产党早期组织成立",
+		"target": "毛泽东"
+	},
+	{
+		"relationName": "涉及",
+		"source": "长沙共产党早期组织成立",
+		"target": "陈独秀"
+	},
+	{
+		"relationName": "涉及",
+		"source": "长沙共产党早期组织成立",
+		"target": "蔡和森"
+	},
+	{
+		"relationName": "涉及",
+		"source": "济南共产党早期组织成立",
+		"target": "邓恩铭"
+	},
+	{
+		"relationName": "涉及",
+		"source": "济南共产党早期组织成立",
+		"target": "王尽美"
+	},
+	{
+		"relationName": "涉及",
+		"source": "广州共产党早期组织成立",
+		"target": "陈公博"
+	},
+	{
+		"relationName": "涉及",
+		"source": "广州共产党早期组织成立",
+		"target": "斯托扬诺维奇"
+	},
+	{
+		"relationName": "涉及",
+		"source": "广州共产党早期组织成立",
+		"target": "谭平山"
+	},
+	{
+		"relationName": "涉及",
+		"source": "广州共产党早期组织成立",
+		"target": "李季"
+	},
+	{
+		"relationName": "涉及",
+		"source": "广州共产党早期组织成立",
+		"target": "陈独秀"
+	},
+	{
+		"relationName": "涉及",
+		"source": "成立“共产党小组”",
+		"target": "李大钊"
+	},
+	{
+		"relationName": "涉及",
+		"source": "中国共产党第一次全国代表大会",
+		"target": "陈公博"
+	},
+	{
+		"relationName": "涉及",
+		"source": "中国共产党第一次全国代表大会",
+		"target": "何叔衡"
+	},
+	{
+		"relationName": "涉及",
+		"source": "中国共产党第一次全国代表大会",
+		"target": "李达"
+	},
+	{
+		"relationName": "涉及",
+		"source": "中国共产党第一次全国代表大会",
+		"target": "尼克尔斯基"
+	},
+	{
+		"relationName": "涉及",
+		"source": "中国共产党第一次全国代表大会",
+		"target": "邓恩铭"
+	},
+	{
+		"relationName": "涉及",
+		"source": "中国共产党第一次全国代表大会",
+		"target": "周佛海"
+	},
+	{
+		"relationName": "涉及",
+		"source": "中国共产党第一次全国代表大会",
+		"target": "马林"
+	},
+	{
+		"relationName": "涉及",
+		"source": "中国共产党第一次全国代表大会",
+		"target": "毛泽东"
+	},
+	{
+		"relationName": "涉及",
+		"source": "中国共产党第一次全国代表大会",
+		"target": "董必武"
+	},
+	{
+		"relationName": "涉及",
+		"source": "中国共产党第一次全国代表大会",
+		"target": "刘仁静"
+	},
+	{
+		"relationName": "涉及",
+		"source": "中国共产党第一次全国代表大会",
+		"target": "陈潭秋"
+	},
+	{
+		"relationName": "涉及",
+		"source": "中国共产党第一次全国代表大会",
+		"target": "陈独秀"
+	},
+	{
+		"relationName": "涉及",
+		"source": "中国共产党第一次全国代表大会",
+		"target": "包惠僧"
+	},
+	{
+		"relationName": "涉及",
+		"source": "中国共产党第一次全国代表大会",
+		"target": "张国焘"
+	},
+	{
+		"relationName": "涉及",
+		"source": "中国共产党第一次全国代表大会",
+		"target": "李汉俊"
+	},
+	{
+		"relationName": "涉及",
+		"source": "中国共产党第一次全国代表大会",
+		"target": "王尽美"
+	},
+	{
+		"relationName": "成员",
+		"source": "中国共产党第一届中央局设立",
+		"target": "李达"
+	},
+	{
+		"relationName": "成员",
+		"source": "中国共产党第一届中央局设立",
+		"target": "张国焘"
+	},
+	{
+		"relationName": "成员",
+		"source": "中国共产党第一届中央局设立",
+		"target": "陈独秀"
+	},
+	{
+		"relationName": "总主任",
+		"source": "中国劳动组合书记部成立",
+		"target": "张国焘"
+	},
+	{
+		"relationName": "涉及",
+		"source": "中国劳动组合书记部成立",
+		"target": "毛泽东"
+	},
+	{
+		"relationName": "涉及",
+		"source": "衙前农民大会",
+		"target": "李成虎"
+	},
+	{
+		"relationName": "涉及",
+		"source": "衙前农民大会",
+		"target": "杨之华"
+	},
+	{
+		"relationName": "涉及",
+		"source": "衙前农民大会",
+		"target": "沈玄庐"
+	},
+	{
+		"relationName": "涉及",
+		"source": "安源路矿工人大罢工",
+		"target": "刘少奇"
+	},
+	{
+		"relationName": "涉及",
+		"source": "安源路矿工人大罢工",
+		"target": "毛泽东"
+	},
+	{
+		"relationName": "涉及",
+		"source": "安源路矿工人大罢工",
+		"target": "李立三"
+	},
+	{
+		"relationName": "涉及",
+		"source": "开滦煤矿工人大罢工",
+		"target": "邓培"
+	},
+	{
+		"relationName": "涉及",
+		"source": "开滦煤矿工人大罢工",
+		"target": "王尽美"
+	},
+	{
+		"relationName": "涉及",
+		"source": "二七惨案",
+		"target": "林祥谦"
+	},
+	{
+		"relationName": "涉及",
+		"source": "二七惨案",
+		"target": "吴佩孚"
+	},
+	{
+		"relationName": "涉及",
+		"source": "京汉铁路工人大罢工",
+		"target": "林育南"
+	},
+	{
+		"relationName": "涉及",
+		"source": "京汉铁路工人大罢工",
+		"target": "罗章龙"
+	},
+	{
+		"relationName": "涉及",
+		"source": "京汉铁路工人大罢工",
+		"target": "项英"
+	},
+	{
+		"relationName": "涉及",
+		"source": "京汉铁路工人大罢工",
+		"target": "张国焘"
+	},
+	{
+		"relationName": "涉及",
+		"source": "京汉铁路工人大罢工",
+		"target": "吴佩孚"
+	},
+	{
+		"relationName": "涉及",
+		"source": "京汉铁路工人大罢工",
+		"target": "萧耀南"
+	},
+	{
+		"relationName": "涉及",
+		"source": "岳北农工会建立",
+		"target": "刘东轩"
+	},
+	{
+		"relationName": "涉及",
+		"source": "岳北农工会建立",
+		"target": "毛泽东"
+	},
+	{
+		"relationName": "涉及",
+		"source": "岳北农工会建立",
+		"target": "谢怀德"
+	},
+	{
+		"relationName": "涉及",
+		"source": "广州起义",
+		"target": "叶挺"
+	},
+	{
+		"relationName": "涉及",
+		"source": "广州起义",
+		"target": "叶剑英"
+	},
+	{
+		"relationName": "涉及",
+		"source": "广州起义",
+		"target": "张太雷"
+	},
+	{
+		"relationName": "涉及",
+		"source": "广州起义",
+		"target": "林觉民"
+	},
+	{
+		"relationName": "涉及",
+		"source": "广州起义",
+		"target": "赵声"
+	},
+	{
+		"relationName": "涉及",
+		"source": "广州起义",
+		"target": "张鸣岐"
+	},
+	{
+		"relationName": "涉及",
+		"source": "广州起义",
+		"target": "喻培伦"
+	},
+	{
+		"relationName": "涉及",
+		"source": "广州起义",
+		"target": "潘达微"
+	},
+	{
+		"relationName": "涉及",
+		"source": "辛亥革命",
+		"target": "熊秉坤"
+	},
+	{
+		"relationName": "涉及",
+		"source": "中华民国成立",
+		"target": "袁世凯"
+	},
+	{
+		"relationName": "涉及",
+		"source": "中华民国成立",
+		"target": "蒋介石"
+	},
+	{
+		"relationName": "涉及",
+		"source": "中华民国成立",
+		"target": "孙中山"
+	},
+	{
+		"relationName": "涉及",
+		"source": "《晨钟报》创刊",
+		"target": "张宗昌"
+	},
+	{
+		"relationName": "涉及",
+		"source": "二月革命",
+		"target": "列宁"
+	},
+	{
+		"relationName": "涉及",
+		"source": "十月革命",
+		"target": "列宁"
+	},
+	{
+		"relationName": "涉及",
+		"source": "十月革命",
+		"target": "弗拉基米尔·伊里奇·乌里扬诺夫"
+	},
+	{
+		"relationName": "涉及",
+		"source": "《我的马克思主义观》发表",
+		"target": "李大钊"
+	},
+	{
+		"relationName": "涉及",
+		"source": "《我的马克思主义观》发表",
+		"target": "恩格斯"
+	},
+	{
+		"relationName": "涉及",
+		"source": "《我的马克思主义观》发表",
+		"target": "马克思"
+	},
+	{
+		"relationName": "作者",
+		"source": "李大钊演说《庶民的胜利》",
+		"target": "李大钊"
+	},
+	{
+		"relationName": "中心人物",
+		"source": "巴黎和会",
+		"target": "威尔逊"
+	},
+	{
+		"relationName": "中心人物",
+		"source": "巴黎和会",
+		"target": "克里孟梭"
+	},
+	{
+		"relationName": "中心人物",
+		"source": "巴黎和会",
+		"target": "劳合·乔治"
+	},
+	{
+		"relationName": "涉及",
+		"source": "《湘江评论》创刊",
+		"target": "李大钊"
+	},
+	{
+		"relationName": "代表",
+		"source": "《新青年》创办",
+		"target": "鲁迅"
+	},
+	{
+		"relationName": "代表",
+		"source": "《新青年》创办",
+		"target": "胡适"
+	},
+	{
+		"relationName": "代表",
+		"source": "《新青年》创办",
+		"target": "李大钊"
+	},
+	{
+		"target": "南京矿路学堂",
+		"relationName": "毕业院校",
+		"source": "鲁迅"
+	},
+	{
+		"target": "周树人",
+		"relationName": "原名",
+		"source": "鲁迅"
+	},
+	{
+		"target": "朱安",
+		"relationName": "妻子",
+		"source": "鲁迅"
+	},
+	{
+		"target": "周海婴",
+		"relationName": "儿子",
+		"source": "鲁迅"
+	},
+	{
+		"target": "五四运动",
+		"relationName": "参与",
+		"source": "鲁迅"
+	},
+	{
+		"relationName": "涉及",
+		"source": "《湘江评论》创刊",
+		"target": "张敬尧"
+	},
+	{
+		"relationName": "涉及",
+		"source": "《湘江评论》创刊",
+		"target": "毛泽东"
+	},
+	{
+		"target": "广州起义",
+		"relationName": "4月27日",
+		"source": "1911年"
+	},
+	{
+		"target": "辛亥革命",
+		"relationName": "10月10日",
+		"source": "1911年"
+	},
+	{
+		"target": "中华民国成立",
+		"relationName": "1月1日",
+		"source": "1912年"
+	},
+	{
+		"target": "一战",
+		"relationName": "7月28日",
+		"source": "1914年"
+	},
+	{
+		"target": "《新青年》创办",
+		"relationName": "9月15日",
+		"source": "1915年"
+	},
+	{
+		"target": "《晨钟报》创刊",
+		"relationName": "8月15日",
+		"source": "1916年"
+	},
+	{
+		"target": "二月革命",
+		"relationName": "3月12日",
+		"source": "1917年"
+	},
+	{
+		"target": "十月革命",
+		"relationName": "11月7日",
+		"source": "1917年"
+	},
+	{
+		"target": "《我的马克思主义观》发表",
+		"relationName": "7月",
+		"source": "1918年"
+	},
+	{
+		"target": "李大钊演说《庶民的胜利》",
+		"relationName": "11月",
+		"source": "1918年"
+	},
+	{
+		"target": "巴黎和会",
+		"relationName": "1月",
+		"source": "1919年"
+	},
+	{
+		"target": "五四运动",
+		"relationName": "5月4日",
+		"source": "1919年"
+	},
+	{
+		"target": "《湘江评论》创刊",
+		"relationName": "7月14日",
+		"source": "1919年"
+	},
+	{
+		"target": "1911年",
+		"relationName": "",
+		"source": "党史图谱"
+	},
+	{
+		"target": "1912年",
+		"relationName": "",
+		"source": "党史图谱"
+	},
+	{
+		"target": "1913年",
+		"relationName": "",
+		"source": "党史图谱"
+	},
+	{
+		"target": "1914年",
+		"relationName": "",
+		"source": "党史图谱"
+	},
+	{
+		"target": "1915年",
+		"relationName": "",
+		"source": "党史图谱"
+	},
+	{
+		"target": "1916年",
+		"relationName": "",
+		"source": "党史图谱"
+	},
+	{
+		"target": "1917年",
+		"relationName": "",
+		"source": "党史图谱"
+	},
+	{
+		"target": "1918年",
+		"relationName": "",
+		"source": "党史图谱"
+	},
+	{
+		"target": "1919年",
+		"relationName": "",
+		"source": "党史图谱"
+	},
+	{
+		"target": "南昌起义",
+		"relationName": "8月1日",
+		"source": "1927年"
+	},
+	{
+		"target": "八七会议",
+		"relationName": "8月7日",
+		"source": "1927年"
+	},
+	{
+		"target": "中国共产党临时中央政治局成立",
+		"relationName": "8月7日",
+		"source": "1927年"
+	},
+	{
+		"target": "秋收起义",
+		"relationName": "9月9日",
+		"source": "1927年"
+	},
+	{
+		"target": "三湾改编",
+		"relationName": "9月29日",
+		"source": "1927年"
+	},
+	{
+		"target": "中共六大",
+		"relationName": "6月",
+		"source": "1927年"
+	},
+	{
+		"target": "井冈山革命根据地",
+		"relationName": "10月",
+		"source": "1927年"
+	},
+	{
+		"target": "茶陵县工农兵政府成立",
+		"relationName": "11月",
+		"source": "1927年"
+	},
+	{
+		"target": "井冈山会师",
+		"relationName": "4月28日",
+		"source": "1928年"
+	},
+	{
+		"target": "三大纪律，八项注意",
+		"relationName": "4月",
+		"source": "1928年"
+	},
+	{
+		"target": "中国工农革命军第四军建立",
+		"relationName": "5月4日",
+		"source": "1928年"
+	},
+	{
+		"target": "《井冈山土地法》颁布",
+		"relationName": "7月",
+		"source": "1928年"
+	},
+	{
+		"target": "井冈山革命根据地第一次反“会剿”",
+		"relationName": "7月",
+		"source": "1928年"
+	},
+	{
+		"target": "古田会议",
+		"relationName": "12月28日",
+		"source": "1928年"
+	},
+	{
+		"target": "《星星之火，可以燎原》",
+		"relationName": "1月5日",
+		"source": "1928年"
+	},
+	{
+		"target": "中国工农红军第一军团成立",
+		"relationName": "6月",
+		"source": "1928年"
+	},
+	{
+		"target": "1927年",
+		"relationName": "",
+		"source": "党史图谱"
+	},
+	{
+		"target": "1928年",
+		"relationName": "",
+		"source": "党史图谱"
+	},
+	{
+		"target": "1929年",
+		"relationName": "",
+		"source": "党史图谱"
+	},
+	{
+		"target": "1930年",
+		"relationName": "",
+		"source": "党史图谱"
+	},
+	{
+		"target": "中华人民共和国成立",
+		"relationName": "10月1日",
+		"source": "1949年"
+	},
+	{
+		"target": "同苏联，蒙古，朝鲜等10个人民民主国家建交",
+		"relationName": "10月",
+		"source": "1949年"
+	},
+	{
+		"target": "中国海关总署成立",
+		"relationName": "10月",
+		"source": "1949年"
+	},
+	{
+		"target": "1949年底相继解放闽南地区和广东大部分，广西，贵州，四川",
+		"relationName": "12月",
+		"source": "1949年"
+	},
+	{
+		"target": "打扫干净屋子再请客",
+		"relationName": "1949年",
+		"source": "1949年"
+	},
+	{
+		"target": "收回外国兵营地产（1950年1月—9月）",
+		"relationName": "1月",
+		"source": "1949年"
+	},
+	{
+		"target": "没收官僚资本",
+		"relationName": "1月",
+		"source": "1950年"
+	},
+	{
+		"target": "《告台湾同胞书》",
+		"relationName": "2月28日",
+		"source": "1950年"
+	},
+	{
+		"target": "统一财政经济工作",
+		"relationName": "3月",
+		"source": "1950年"
+	},
+	{
+		"target": "海南岛战役",
+		"relationName": "3月",
+		"source": "1950年"
+	},
+	{
+		"target": "《中苏友好同盟互助条约》签订",
+		"relationName": "2月14日",
+		"source": "1950年"
+	},
+	{
+		"target": "1950年全党整风运动（1950年5月1日—年底）",
+		"relationName": "5月",
+		"source": "1950年"
+	},
+	{
+		"target": "米棉之战",
+		"relationName": "1950年",
+		"source": "1950年"
+	},
+	{
+		"target": "西藏和平解放",
+		"relationName": "5月23日",
+		"source": "1951年"
+	},
+	{
+		"target": "朝鲜战争",
+		"relationName": "6月25日",
+		"source": "1950年"
+	},
+	{
+		"target": "《中华人民共和国土地改革法》通过",
+		"relationName": "6月28日",
+		"source": "1950年"
+	},
+	{
+		"target": "《不要四面出击》",
+		"relationName": "6月",
+		"source": "1950年"
+	},
+	{
+		"target": "镇压反革命运动",
+		"relationName": "10月10日",
+		"source": "1950年"
+	},
+	{
+		"target": "人民志愿军跨过鸭绿江",
+		"relationName": "10月19日",
+		"source": "1950年"
+	},
+	{
+		"target": "美国越过三八线",
+		"relationName": "10月",
+		"source": "1950年"
+	},
+	{
+		"target": "抗美援朝运动",
+		"relationName": "10月",
+		"source": "1950年"
+	},
+	{
+		"target": "朝鲜停战谈判",
+		"relationName": "7月10日",
+		"source": "1951年"
+	},
+	{
+		"target": "三反运动",
+		"relationName": "12月1日",
+		"source": "1951年"
+	},
+	{
+		"target": "共和国第一大案",
+		"relationName": "12月2日",
+		"source": "1951年"
+	},
+	{
+		"target": "关于朝鲜军事停战的协定",
+		"relationName": "7月27日",
+		"source": "1953年"
+	},
+	{
+		"target": "1949年",
+		"relationName": "",
+		"source": "党史图谱"
+	},
+	{
+		"target": "1950年",
+		"relationName": "",
+		"source": "党史图谱"
+	},
+	{
+		"target": "1951年",
+		"relationName": "",
+		"source": "党史图谱"
+	},
+	{
+		"target": "1952年",
+		"relationName": "",
+		"source": "党史图谱"
+	},
+	{
+		"target": "1953年",
+		"relationName": "",
+		"source": "党史图谱"
+	}
+]

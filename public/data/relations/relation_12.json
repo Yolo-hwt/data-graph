@@ -1,0 +1,327 @@
+[
+    {
+        "target": "1949年",
+        "relationName": "",
+        "source": "党史图谱"
+    },
+    {
+        "target": "1950年",
+        "relationName": "",
+        "source": "党史图谱"
+    },
+    {
+        "target": "1951年",
+        "relationName": "",
+        "source": "党史图谱"
+    },
+    {
+        "target": "1952年",
+        "relationName": "",
+        "source": "党史图谱"
+    },
+    {
+        "target": "1953年",
+        "relationName": "",
+        "source": "党史图谱"
+    },
+    {
+        "target": "中华人民共和国成立",
+        "relationName": "10月1日",
+        "source": "1949年"
+    },
+    {
+        "target": "同苏联，蒙古，朝鲜建交",
+        "relationName": "10月",
+        "source": "1949年"
+    },
+    {
+        "target": "中国海关总署成立",
+        "relationName": "10月",
+        "source": "1949年"
+    },
+    {
+        "target": "相继解放",
+        "relationName": "12月",
+        "source": "1949年"
+    },
+    {
+        "target": "打扫干净屋子再请客",
+        "relationName": "1949年",
+        "source": "1949年"
+    },
+    {
+        "target": "收回外国兵营地产",
+        "relationName": "1月",
+        "source": "1949年"
+    },
+    {
+        "target": "没收官僚资本",
+        "relationName": "1月",
+        "source": "1950年"
+    },
+    {
+        "target": "《告台湾同胞书》",
+        "relationName": "2月28日",
+        "source": "1950年"
+    },
+    {
+        "target": "统一财政",
+        "relationName": "3月",
+        "source": "1950年"
+    },
+    {
+        "target": "海南岛战役",
+        "relationName": "3月",
+        "source": "1950年"
+    },
+    {
+        "target": "《中苏友好同盟互助条约》签订",
+        "relationName": "2月14日",
+        "source": "1950年"
+    },
+    {
+        "target": "全党整风运动",
+        "relationName": "5月",
+        "source": "1950年"
+    },
+    {
+        "target": "米棉之战",
+        "relationName": "1950年",
+        "source": "1950年"
+    },
+    {
+        "target": "西藏和平解放",
+        "relationName": "5月23日",
+        "source": "1951年"
+    },
+    {
+        "target": "朝鲜战争",
+        "relationName": "6月25日",
+        "source": "1950年"
+    },
+    {
+        "target": "土地改革法通过",
+        "relationName": "6月28日",
+        "source": "1950年"
+    },
+    {
+        "target": "《不要四面出击》",
+        "relationName": "6月",
+        "source": "1950年"
+    },
+    {
+        "target": "镇压反革命运动",
+        "relationName": "10月10日",
+        "source": "1950年"
+    },
+    {
+        "target": "跨过鸭绿江",
+        "relationName": "10月19日",
+        "source": "1950年"
+    },
+    {
+        "target": "美国越过三八线",
+        "relationName": "10月",
+        "source": "1950年"
+    },
+    {
+        "target": "抗美援朝运动",
+        "relationName": "10月",
+        "source": "1950年"
+    },
+    {
+        "target": "朝鲜停战谈判",
+        "relationName": "7月10日",
+        "source": "1951年"
+    },
+    {
+        "target": "三反运动",
+        "relationName": "12月1日",
+        "source": "1951年"
+    },
+    {
+        "target": "共和国第一大案",
+        "relationName": "12月2日",
+        "source": "1951年"
+    },
+    {
+        "target": "关于朝鲜军事停战的协定",
+        "relationName": "7月27日",
+        "source": "1953年"
+    },
+    {
+        "target": "李济深",
+        "relationName": "参与",
+        "source": "中华人民共和国成立"
+    },
+    {
+        "target": "朱德",
+        "relationName": "主要参与",
+        "source": "中华人民共和国成立"
+    },
+    {
+        "target": "张澜",
+        "relationName": "参与",
+        "source": "中华人民共和国成立"
+    },
+    {
+        "target": "高岗",
+        "relationName": "参与",
+        "source": "中华人民共和国成立"
+    },
+    {
+        "target": "宋庆龄",
+        "relationName": "参与",
+        "source": "中华人民共和国成立"
+    },
+    {
+        "target": "刘少奇",
+        "relationName": "主要参与",
+        "source": "中华人民共和国成立"
+    },
+    {
+        "target": "毛泽东",
+        "relationName": "主持",
+        "source": "中华人民共和国成立"
+    },
+    {
+        "target": "杨开慧",
+        "relationName": "妻子",
+        "source": "毛泽东"
+    },
+    {
+        "target": "贺子珍",
+        "relationName": "妻子",
+        "source": "毛泽东"
+    },
+    {
+        "target": "江青",
+        "relationName": "妻子",
+        "source": "毛泽东"
+    },
+    {
+        "target": "毛岸英",
+        "relationName": "儿子",
+        "source": "毛泽东"
+    },
+    {
+        "target": "李讷",
+        "relationName": "女儿",
+        "source": "毛泽东"
+    },
+    {
+        "target": "毛泽覃",
+        "relationName": "弟弟",
+        "source": "毛泽东"
+    },
+    {
+        "target": "毛泽民",
+        "relationName": "弟弟",
+        "source": "毛泽东"
+    },
+    {
+        "target": "李漱清",
+        "relationName": "老师",
+        "source": "毛泽东"
+    },
+    {
+        "target": "石三伢子",
+        "relationName": "别名",
+        "source": "毛泽东"
+    },
+    {
+        "target": "马克思主义",
+        "relationName": "信仰",
+        "source": "毛泽东"
+    },
+    {
+        "target": "湖南省立第一师范学校",
+        "relationName": "毕业院校",
+        "source": "毛泽东"
+    },
+    {
+        "target": "湖南韶山",
+        "relationName": "出生地",
+        "source": "毛泽东"
+    },
+    {
+        "target": "矛盾论",
+        "relationName": "代表作品",
+        "source": "毛泽东"
+    },
+    {
+        "target": "沁园春",
+        "relationName": "代表作品",
+        "source": "毛泽东"
+    },
+    {
+        "target": "论持久战",
+        "relationName": "代表作品",
+        "source": "毛泽东"
+    },
+    {
+        "target": "中共一大",
+        "relationName": "出席",
+        "source": "毛泽东"
+    },
+    {
+        "target": "三大战役",
+        "relationName": "指导",
+        "source": "毛泽东"
+    },
+    {
+        "target": "“八七”会议",
+        "relationName": "参加",
+        "source": "毛泽东"
+    },
+    {
+        "target": "红四军",
+        "relationName": "建立",
+        "source": "毛泽东"
+    },
+    {
+        "target": "长征",
+        "relationName": "率领",
+        "source": "毛泽东"
+    },
+    {
+        "target": "土地改革",
+        "relationName": "领导开展",
+        "source": "毛泽东"
+    },
+    {
+        "target": "朝鲜战争",
+        "relationName": "指挥",
+        "source": "毛泽东"
+    },
+    {
+        "relationName": "指挥",
+        "source": "朝鲜战争",
+        "target": "金日成"
+    },
+    {
+        "relationName": "指挥",
+        "source": "朝鲜战争",
+        "target": "彭德怀"
+    },
+    {
+        "relationName": "指挥",
+        "source": "海南岛战役",
+        "target": "薛岳"
+    },
+    {
+        "relationName": "指挥",
+        "source": "海南岛战役",
+        "target": "韩先楚"
+    },
+    {
+        "relationName": "指挥",
+        "source": "海南岛战役",
+        "target": "邓华"
+    },
+    {
+        "relationName": "指挥",
+        "source": "海南岛战役",
+        "target": "叶剑英"
+    }
+]

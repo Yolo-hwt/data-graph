@@ -1,0 +1,721 @@
+[
+    {
+        "relationName": "涉及",
+        "source": "《怎样做一个共产党员》发表",
+        "target": "陈云"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《怎样做一个共产党员》发表",
+        "target": "陈云"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《怎样做一个共产党员》发表",
+        "target": "陈云"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《论共产党员的修养》发表",
+        "target": "列宁"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《论共产党员的修养》发表",
+        "target": "刘少奇"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《论共产党员的修养》发表",
+        "target": "马克思"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《论共产党员的修养》发表",
+        "target": "列宁"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《论共产党员的修养》发表",
+        "target": "刘少奇"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《论共产党员的修养》发表",
+        "target": "马克思"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《论共产党员的修养》发表",
+        "target": "列宁"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《论共产党员的修养》发表",
+        "target": "刘少奇"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《论共产党员的修养》发表",
+        "target": "马克思"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《中国革命和中国共产党》发表",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《中国革命和中国共产党》发表",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《中国革命和中国共产党》发表",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《新民主主义论》发表",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《新民主主义论》发表",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《新民主主义论》发表",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《改造我们的学习》发表",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《改造我们的学习》发表",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《改造我们的学习》发表",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "整风运动",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "整风运动",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "整风运动",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "延安文艺座谈会",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "延安文艺座谈会",
+        "target": "凯丰"
+    },
+    {
+        "relationName": "涉及",
+        "source": "延安文艺座谈会",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "延安文艺座谈会",
+        "target": "凯丰"
+    },
+    {
+        "relationName": "涉及",
+        "source": "延安文艺座谈会",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "延安文艺座谈会",
+        "target": "凯丰"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《共产党员的权利和义务》发表",
+        "target": "张闻天"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《共产党员的权利和义务》发表",
+        "target": "张闻天"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《共产党员的权利和义务》发表",
+        "target": "张闻天"
+    },
+    {
+        "relationName": "作者",
+        "source": "《中国之命运》出版",
+        "target": "蒋介石"
+    },
+    {
+        "relationName": "作者",
+        "source": "《中国之命运》出版",
+        "target": "蒋介石"
+    },
+    {
+        "relationName": "作者",
+        "source": "《中国之命运》出版",
+        "target": "蒋介石"
+    },
+    {
+        "relationName": "指挥",
+        "source": "挺进豫西",
+        "target": "陈赓"
+    },
+    {
+        "relationName": "指挥",
+        "source": "湘西会战",
+        "target": "王耀武"
+    },
+    {
+        "relationName": "指挥",
+        "source": "湘西会战",
+        "target": "何应钦"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "任弼时"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "杨尚昆"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "朱德"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "康生"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "董必武"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "彭真"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "乌兰夫"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "聂荣臻"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "陈毅"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "叶剑英"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "陆定一"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "张闻天"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "林伯渠"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "陈云"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "彭德怀"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "刘少奇"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "周恩来"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "刘伯承"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "彭真"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "董必武"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "康生"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "朱德"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "杨尚昆"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "任弼时"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "乌兰夫"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "聂荣臻"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "陈毅"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "叶剑英"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "陆定一"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "张闻天"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "林伯渠"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "陈云"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "彭德怀"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "刘少奇"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "周恩来"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "刘伯承"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "彭真"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "董必武"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "康生"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "朱德"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "杨尚昆"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "任弼时"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "乌兰夫"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "聂荣臻"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "陈毅"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "叶剑英"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "陆定一"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "张闻天"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "林伯渠"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "陈云"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "彭德怀"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "刘少奇"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "周恩来"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第七次全国代表大会",
+        "target": "刘伯承"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《论联合政府》报告",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《论联合政府》报告",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《论联合政府》报告",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《论解放区战场》报告",
+        "target": "朱德"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《论解放区战场》报告",
+        "target": "朱德"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《论解放区战场》报告",
+        "target": "朱德"
+    },
+    {
+        "relationName": "涉及",
+        "source": "毛泽东思想地位确立",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "毛泽东思想地位确立",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "毛泽东思想地位确立",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《对日寇的最后一战》发表",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《对日寇的最后一战》发表",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《对日寇的最后一战》发表",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "主要人物",
+        "source": "日本投降",
+        "target": "冈村宁次"
+    },
+    {
+        "relationName": "涉及",
+        "source": "日本投降",
+        "target": "梅津美治郎"
+    },
+    {
+        "relationName": "主要人物",
+        "source": "日本投降",
+        "target": "冈村宁次"
+    },
+    {
+        "relationName": "涉及",
+        "source": "日本投降",
+        "target": "梅津美治郎"
+    },
+    {
+        "relationName": "主要人物",
+        "source": "日本投降",
+        "target": "冈村宁次"
+    },
+    {
+        "relationName": "涉及",
+        "source": "日本投降",
+        "target": "梅津美治郎"
+    },
+    {
+        "relationName": "5月31日",
+        "source": "1939年",
+        "target": "《怎样做一个共产党员》发表"
+    },
+    {
+        "relationName": "7月31日",
+        "source": "1939年",
+        "target": "《论共产党员的修养》发表"
+    },
+    {
+        "relationName": "8月31日",
+        "source": "1939年",
+        "target": "中共中央政治局关于巩固党的决定"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "1939年",
+        "target": "《中国革命和中国共产党》发表"
+    },
+    {
+        "relationName": "1月9日",
+        "source": "1940年",
+        "target": "《新民主主义论》发表"
+    },
+    {
+        "relationName": "5月31日",
+        "source": "1941年",
+        "target": "《改造我们的学习》发表"
+    },
+    {
+        "relationName": "5月31日",
+        "source": "1941年",
+        "target": "整风运动"
+    },
+    {
+        "relationName": "5月31日",
+        "source": "1942年",
+        "target": "延安文艺座谈会"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "1942年",
+        "target": "《共产党员的权利和义务》发表"
+    },
+    {
+        "relationName": "3月10日",
+        "source": "1943年",
+        "target": "《中国之命运》出版"
+    },
+    {
+        "relationName": "4月31日",
+        "source": "1944年",
+        "target": "挺进豫西"
+    },
+    {
+        "relationName": "4月9日",
+        "source": "1945年",
+        "target": "湘西会战"
+    },
+    {
+        "relationName": "4月23日",
+        "source": "1945年",
+        "target": "中国共产党第七次全国代表大会"
+    },
+    {
+        "relationName": "4月24日",
+        "source": "1945年",
+        "target": "《论联合政府》报告"
+    },
+    {
+        "relationName": "6月31日",
+        "source": "1945年",
+        "target": "《论解放区战场》报告"
+    },
+    {
+        "relationName": "6月31日",
+        "source": "1945年",
+        "target": "毛泽东思想地位确立"
+    },
+    {
+        "relationName": "8月9日",
+        "source": "1945年",
+        "target": "《对日寇的最后一战》发表"
+    },
+    {
+        "relationName": "8月9日",
+        "source": "1945年",
+        "target": "苏联出兵中国东北（1945年8月9日—8月底）"
+    },
+    {
+        "relationName": "8月15日",
+        "source": "1945年",
+        "target": "日本无条件投降"
+    },
+    {
+        "relationName": "9月2日",
+        "source": "1945年",
+        "target": "日本投降"
+    },
+    [
+        {
+            "target": "1939年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1940年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1941年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1942年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1943年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1944年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1945年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ]
+]

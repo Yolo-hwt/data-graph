@@ -1,0 +1,361 @@
+[
+    {
+        "relationName": "涉及",
+        "source": "“三北”防护林工程",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "“三北”防护林工程",
+        "target": "习近平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "“三北”防护林工程",
+        "target": "习近平"
+    },
+    {
+        "relationName": "指挥",
+        "source": "对越自卫反击战",
+        "target": "武元甲"
+    },
+    {
+        "relationName": "指挥",
+        "source": "对越自卫反击战",
+        "target": "黎笋"
+    },
+    {
+        "relationName": "指挥",
+        "source": "对越自卫反击战",
+        "target": "杨得志"
+    },
+    {
+        "relationName": "指挥",
+        "source": "对越自卫反击战",
+        "target": "许世友"
+    },
+    {
+        "relationName": "指挥",
+        "source": "对越自卫反击战",
+        "target": "徐向前"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《关于党内政治生活的若干准则》",
+        "target": "林彪"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《关于党内政治生活的若干准则》",
+        "target": "林彪"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《关于党内政治生活的若干准则》",
+        "target": "林彪"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《全面开创社会主义现代化建设的新局面》",
+        "target": "胡耀邦"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《全面开创社会主义现代化建设的新局面》",
+        "target": "胡耀邦"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《全面开创社会主义现代化建设的新局面》",
+        "target": "胡耀邦"
+    },
+    {
+        "relationName": "涉及",
+        "source": "百万大裁军",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "百万大裁军",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "百万大裁军",
+        "target": "邓小平"
+    },
+    {
+        "relationName": "提出",
+        "source": "国家高技术研究发展计划（863计划）",
+        "target": "陈芳允"
+    },
+    {
+        "relationName": "提出",
+        "source": "国家高技术研究发展计划（863计划）",
+        "target": "杨嘉墀"
+    },
+    {
+        "relationName": "提出",
+        "source": "国家高技术研究发展计划（863计划）",
+        "target": "王淦昌"
+    },
+    {
+        "relationName": "提出",
+        "source": "国家高技术研究发展计划（863计划）",
+        "target": "王大珩"
+    },
+    {
+        "relationName": "指挥",
+        "source": "南沙海战",
+        "target": "陈伟文"
+    },
+    {
+        "relationName": "涉及",
+        "source": "南沙海战",
+        "target": "杨志亮"
+    },
+    {
+        "relationName": "涉及",
+        "source": "南沙海战",
+        "target": "杨志亮"
+    },
+    {
+        "relationName": "涉及",
+        "source": "南沙海战",
+        "target": "杨志亮"
+    },
+    {
+        "relationName": "指挥",
+        "source": "海湾战争",
+        "target": "萨达姆·侯赛因"
+    },
+    {
+        "relationName": "指挥",
+        "source": "海湾战争",
+        "target": "诺曼·施瓦茨科普夫"
+    },
+    {
+        "relationName": "8月31日",
+        "source": "1978年",
+        "target": "南疆保卫战"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "1978年",
+        "target": "“三北”防护林工程"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "1978年",
+        "target": "家庭联产承包责任制"
+    },
+    {
+        "relationName": "2月17日",
+        "source": "1979年",
+        "target": "对越自卫反击战"
+    },
+    {
+        "relationName": "2月31日",
+        "source": "1980年",
+        "target": "《关于党内政治生活的若干准则》"
+    },
+    {
+        "relationName": "2月25日",
+        "source": "1981年",
+        "target": "五讲四美三热爱"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "1981年",
+        "target": "第六个五年计划"
+    },
+    {
+        "relationName": "9月1日",
+        "source": "1982年",
+        "target": "中国共产党第十二次全国代表大会"
+    },
+    {
+        "relationName": "9月31日",
+        "source": "1982年",
+        "target": "计划生育政策实施"
+    },
+    {
+        "relationName": "9月31日",
+        "source": "1982年",
+        "target": "《全面开创社会主义现代化建设的新局面》"
+    },
+    {
+        "relationName": "9月31日",
+        "source": "1982年",
+        "target": "党员义务"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "1982年",
+        "target": "基层群众自治组织"
+    },
+    {
+        "relationName": "10月31日",
+        "source": "1983年",
+        "target": "《中共中央关于整党的决定》"
+    },
+    {
+        "relationName": "10月31日",
+        "source": "1984年",
+        "target": "《中共中央关于经济体制改革的决定》"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "1985年",
+        "target": "百万大裁军"
+    },
+    {
+        "relationName": "3月31日",
+        "source": "1986年",
+        "target": "国家高技术研究发展计划（863计划）"
+    },
+    {
+        "relationName": "9月31日",
+        "source": "1986年",
+        "target": "《中共中央关于社会主义精神文明建设指导方针的决议》"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "1986年",
+        "target": "国务院关于一九八六年度粮食合同定购任务的通知"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "1986年",
+        "target": "七五规划"
+    },
+    {
+        "relationName": "10月25日",
+        "source": "1987年",
+        "target": "中国共产党第十三次全国代表大会"
+    },
+    {
+        "relationName": "10月31日",
+        "source": "1987年",
+        "target": "社会主义初级阶段基本路线"
+    },
+    {
+        "relationName": "2月27日",
+        "source": "1988年",
+        "target": "《全民所有制工业企业承包经营责任制暂行条例》颁布"
+    },
+    {
+        "relationName": "3月14日",
+        "source": "1988年",
+        "target": "南沙海战"
+    },
+    {
+        "relationName": "4月13日",
+        "source": "1988年",
+        "target": "《中华人民共和国全民所有制工业企业法》颁布"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "1988年",
+        "target": "物价闯关"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "1988年",
+        "target": "菜篮子工程"
+    },
+    {
+        "relationName": "8月2日",
+        "source": "1990年",
+        "target": "海湾战争"
+    },
+    {
+        "relationName": "8月31日",
+        "source": "1990年",
+        "target": "海湾危机"
+    },
+    [
+        {
+            "target": "1978年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1979年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1980年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1981年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1982年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1983年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1984年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1985年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1986年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1987年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1988年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1990年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ]
+]

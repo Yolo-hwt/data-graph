@@ -1,0 +1,1753 @@
+[
+    {
+        "relationName": "中心人物",
+        "source": "731部队",
+        "target": "北野政次"
+    },
+    {
+        "relationName": "中心人物",
+        "source": "731部队",
+        "target": "石井四郎"
+    },
+    {
+        "relationName": "中心人物",
+        "source": "731部队",
+        "target": "北野政次"
+    },
+    {
+        "relationName": "中心人物",
+        "source": "731部队",
+        "target": "石井四郎"
+    },
+    {
+        "relationName": "中心人物",
+        "source": "731部队",
+        "target": "北野政次"
+    },
+    {
+        "relationName": "中心人物",
+        "source": "731部队",
+        "target": "石井四郎"
+    },
+    {
+        "relationName": "指挥",
+        "source": "徐州战役",
+        "target": "寺内寿一"
+    },
+    {
+        "relationName": "指挥",
+        "source": "徐州战役",
+        "target": "李宗仁"
+    },
+    {
+        "relationName": "指挥",
+        "source": "台儿庄战役",
+        "target": "汤恩伯"
+    },
+    {
+        "relationName": "指挥",
+        "source": "台儿庄战役",
+        "target": "孙连仲"
+    },
+    {
+        "relationName": "指挥",
+        "source": "台儿庄战役",
+        "target": "白崇禧"
+    },
+    {
+        "relationName": "指挥",
+        "source": "台儿庄战役",
+        "target": "李宗仁"
+    },
+    {
+        "relationName": "涉及",
+        "source": "台儿庄战役",
+        "target": "蒋介石"
+    },
+    {
+        "relationName": "涉及",
+        "source": "台儿庄战役",
+        "target": "王铭章"
+    },
+    {
+        "relationName": "涉及",
+        "source": "台儿庄战役",
+        "target": "张自忠"
+    },
+    {
+        "relationName": "涉及",
+        "source": "台儿庄战役",
+        "target": "关麟征"
+    },
+    {
+        "relationName": "涉及",
+        "source": "台儿庄战役",
+        "target": "蒋介石"
+    },
+    {
+        "relationName": "涉及",
+        "source": "台儿庄战役",
+        "target": "王铭章"
+    },
+    {
+        "relationName": "涉及",
+        "source": "台儿庄战役",
+        "target": "张自忠"
+    },
+    {
+        "relationName": "涉及",
+        "source": "台儿庄战役",
+        "target": "关麟征"
+    },
+    {
+        "relationName": "涉及",
+        "source": "台儿庄战役",
+        "target": "蒋介石"
+    },
+    {
+        "relationName": "涉及",
+        "source": "台儿庄战役",
+        "target": "王铭章"
+    },
+    {
+        "relationName": "涉及",
+        "source": "台儿庄战役",
+        "target": "张自忠"
+    },
+    {
+        "relationName": "涉及",
+        "source": "台儿庄战役",
+        "target": "关麟征"
+    },
+    {
+        "relationName": "指挥",
+        "source": "武汉保卫战",
+        "target": "畑俊六"
+    },
+    {
+        "relationName": "指挥",
+        "source": "武汉保卫战",
+        "target": "冈村宁次"
+    },
+    {
+        "relationName": "指挥",
+        "source": "武汉保卫战",
+        "target": "陈诚"
+    },
+    {
+        "relationName": "指挥",
+        "source": "武汉保卫战",
+        "target": "蒋介石"
+    },
+    {
+        "relationName": "涉及",
+        "source": "八女投江",
+        "target": "康克清"
+    },
+    {
+        "relationName": "涉及",
+        "source": "八女投江",
+        "target": "胡秀芝"
+    },
+    {
+        "relationName": "涉及",
+        "source": "八女投江",
+        "target": "黄桂清"
+    },
+    {
+        "relationName": "涉及",
+        "source": "八女投江",
+        "target": "冷云"
+    },
+    {
+        "relationName": "涉及",
+        "source": "八女投江",
+        "target": "王惠民"
+    },
+    {
+        "relationName": "涉及",
+        "source": "八女投江",
+        "target": "杨贵珍"
+    },
+    {
+        "relationName": "涉及",
+        "source": "八女投江",
+        "target": "郭桂琴"
+    },
+    {
+        "relationName": "涉及",
+        "source": "八女投江",
+        "target": "李凤善"
+    },
+    {
+        "relationName": "涉及",
+        "source": "八女投江",
+        "target": "康克清"
+    },
+    {
+        "relationName": "涉及",
+        "source": "八女投江",
+        "target": "胡秀芝"
+    },
+    {
+        "relationName": "涉及",
+        "source": "八女投江",
+        "target": "黄桂清"
+    },
+    {
+        "relationName": "涉及",
+        "source": "八女投江",
+        "target": "冷云"
+    },
+    {
+        "relationName": "涉及",
+        "source": "八女投江",
+        "target": "王惠民"
+    },
+    {
+        "relationName": "涉及",
+        "source": "八女投江",
+        "target": "杨贵珍"
+    },
+    {
+        "relationName": "涉及",
+        "source": "八女投江",
+        "target": "郭桂琴"
+    },
+    {
+        "relationName": "涉及",
+        "source": "八女投江",
+        "target": "李凤善"
+    },
+    {
+        "relationName": "涉及",
+        "source": "八女投江",
+        "target": "康克清"
+    },
+    {
+        "relationName": "涉及",
+        "source": "八女投江",
+        "target": "胡秀芝"
+    },
+    {
+        "relationName": "涉及",
+        "source": "八女投江",
+        "target": "黄桂清"
+    },
+    {
+        "relationName": "涉及",
+        "source": "八女投江",
+        "target": "冷云"
+    },
+    {
+        "relationName": "涉及",
+        "source": "八女投江",
+        "target": "王惠民"
+    },
+    {
+        "relationName": "涉及",
+        "source": "八女投江",
+        "target": "杨贵珍"
+    },
+    {
+        "relationName": "涉及",
+        "source": "八女投江",
+        "target": "郭桂琴"
+    },
+    {
+        "relationName": "涉及",
+        "source": "八女投江",
+        "target": "李凤善"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "今井武夫"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "汪精卫"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "陈公博"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "陶希圣"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "高宗武"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "曾仲鸣"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "陈璧君"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "周佛海"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "汪"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "今井武夫"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "汪精卫"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "陈公博"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "陶希圣"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "高宗武"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "曾仲鸣"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "陈璧君"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "周佛海"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "汪"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "今井武夫"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "汪精卫"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "陈公博"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "陶希圣"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "高宗武"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "曾仲鸣"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "陈璧君"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "周佛海"
+    },
+    {
+        "relationName": "涉及",
+        "source": "汪精卫叛国投敌事件",
+        "target": "汪"
+    },
+    {
+        "relationName": "涉及",
+        "source": "自己动手，丰衣足食",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "自己动手，丰衣足食",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "自己动手，丰衣足食",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "指挥",
+        "source": "黄土岭伏击战",
+        "target": "阿部规秀"
+    },
+    {
+        "relationName": "指挥",
+        "source": "黄土岭伏击战",
+        "target": "杨成武"
+    },
+    {
+        "relationName": "作者",
+        "source": "《纪念白求恩》",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《纪念白求恩》",
+        "target": "白求恩"
+    },
+    {
+        "relationName": "作者",
+        "source": "《纪念白求恩》",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《纪念白求恩》",
+        "target": "白求恩"
+    },
+    {
+        "relationName": "作者",
+        "source": "《纪念白求恩》",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《纪念白求恩》",
+        "target": "白求恩"
+    },
+    {
+        "relationName": "主要人物",
+        "source": "华中抗日根据地",
+        "target": "粟裕"
+    },
+    {
+        "relationName": "主要人物",
+        "source": "华中抗日根据地",
+        "target": "粟裕"
+    },
+    {
+        "relationName": "主要人物",
+        "source": "华中抗日根据地",
+        "target": "粟裕"
+    },
+    {
+        "relationName": "指挥",
+        "source": "百团大战",
+        "target": "左权"
+    },
+    {
+        "relationName": "指挥",
+        "source": "百团大战",
+        "target": "彭德怀"
+    },
+    {
+        "relationName": "涉及",
+        "source": "延安自然科学院的创建（1940年8月）",
+        "target": "徐特立"
+    },
+    {
+        "relationName": "涉及",
+        "source": "延安自然科学院的创建（1940年8月）",
+        "target": "李富春"
+    },
+    {
+        "relationName": "涉及",
+        "source": "延安自然科学院的创建（1940年8月）",
+        "target": "徐特立"
+    },
+    {
+        "relationName": "涉及",
+        "source": "延安自然科学院的创建（1940年8月）",
+        "target": "李富春"
+    },
+    {
+        "relationName": "涉及",
+        "source": "延安自然科学院的创建（1940年8月）",
+        "target": "徐特立"
+    },
+    {
+        "relationName": "涉及",
+        "source": "延安自然科学院的创建（1940年8月）",
+        "target": "李富春"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第二次反共高潮",
+        "target": "叶挺"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第二次反共高潮",
+        "target": "彭德怀"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第二次反共高潮",
+        "target": "朱德"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第二次反共高潮",
+        "target": "蒋介石"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第二次反共高潮",
+        "target": "白崇禧"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第二次反共高潮",
+        "target": "项英"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第二次反共高潮",
+        "target": "何应钦"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第二次反共高潮",
+        "target": "叶挺"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第二次反共高潮",
+        "target": "彭德怀"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第二次反共高潮",
+        "target": "朱德"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第二次反共高潮",
+        "target": "蒋介石"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第二次反共高潮",
+        "target": "白崇禧"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第二次反共高潮",
+        "target": "项英"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第二次反共高潮",
+        "target": "何应钦"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第二次反共高潮",
+        "target": "叶挺"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第二次反共高潮",
+        "target": "彭德怀"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第二次反共高潮",
+        "target": "朱德"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第二次反共高潮",
+        "target": "蒋介石"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第二次反共高潮",
+        "target": "白崇禧"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第二次反共高潮",
+        "target": "项英"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第二次反共高潮",
+        "target": "何应钦"
+    },
+    {
+        "relationName": "主要人物",
+        "source": "皖南事变",
+        "target": "上官云相"
+    },
+    {
+        "relationName": "主要人物",
+        "source": "皖南事变",
+        "target": "项英"
+    },
+    {
+        "relationName": "主要人物",
+        "source": "皖南事变",
+        "target": "叶挺"
+    },
+    {
+        "relationName": "涉及",
+        "source": "皖南事变",
+        "target": "彭德怀"
+    },
+    {
+        "relationName": "涉及",
+        "source": "皖南事变",
+        "target": "蒋介石"
+    },
+    {
+        "relationName": "涉及",
+        "source": "皖南事变",
+        "target": "朱德"
+    },
+    {
+        "relationName": "涉及",
+        "source": "皖南事变",
+        "target": "白崇禧"
+    },
+    {
+        "relationName": "涉及",
+        "source": "皖南事变",
+        "target": "袁国平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "皖南事变",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "皖南事变",
+        "target": "周子昆"
+    },
+    {
+        "relationName": "涉及",
+        "source": "皖南事变",
+        "target": "何应钦"
+    },
+    {
+        "relationName": "主要人物",
+        "source": "皖南事变",
+        "target": "上官云相"
+    },
+    {
+        "relationName": "主要人物",
+        "source": "皖南事变",
+        "target": "项英"
+    },
+    {
+        "relationName": "主要人物",
+        "source": "皖南事变",
+        "target": "叶挺"
+    },
+    {
+        "relationName": "涉及",
+        "source": "皖南事变",
+        "target": "彭德怀"
+    },
+    {
+        "relationName": "涉及",
+        "source": "皖南事变",
+        "target": "蒋介石"
+    },
+    {
+        "relationName": "涉及",
+        "source": "皖南事变",
+        "target": "朱德"
+    },
+    {
+        "relationName": "涉及",
+        "source": "皖南事变",
+        "target": "白崇禧"
+    },
+    {
+        "relationName": "涉及",
+        "source": "皖南事变",
+        "target": "袁国平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "皖南事变",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "皖南事变",
+        "target": "周子昆"
+    },
+    {
+        "relationName": "涉及",
+        "source": "皖南事变",
+        "target": "何应钦"
+    },
+    {
+        "relationName": "主要人物",
+        "source": "皖南事变",
+        "target": "上官云相"
+    },
+    {
+        "relationName": "主要人物",
+        "source": "皖南事变",
+        "target": "项英"
+    },
+    {
+        "relationName": "主要人物",
+        "source": "皖南事变",
+        "target": "叶挺"
+    },
+    {
+        "relationName": "涉及",
+        "source": "皖南事变",
+        "target": "彭德怀"
+    },
+    {
+        "relationName": "涉及",
+        "source": "皖南事变",
+        "target": "蒋介石"
+    },
+    {
+        "relationName": "涉及",
+        "source": "皖南事变",
+        "target": "朱德"
+    },
+    {
+        "relationName": "涉及",
+        "source": "皖南事变",
+        "target": "白崇禧"
+    },
+    {
+        "relationName": "涉及",
+        "source": "皖南事变",
+        "target": "袁国平"
+    },
+    {
+        "relationName": "涉及",
+        "source": "皖南事变",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "皖南事变",
+        "target": "周子昆"
+    },
+    {
+        "relationName": "涉及",
+        "source": "皖南事变",
+        "target": "何应钦"
+    },
+    {
+        "relationName": "政治部主任",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "邓子恢"
+    },
+    {
+        "relationName": "参谋长",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "赖传珠"
+    },
+    {
+        "relationName": "政治委员",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "刘少奇"
+    },
+    {
+        "relationName": "副军长",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "张云逸"
+    },
+    {
+        "relationName": "代理军长",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "陈毅"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "曾希圣"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "粟裕"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "彭雪枫"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "黄克诚"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "张鼎丞"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "谭震林"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "刘炎"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "李先念"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "梁兴初"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "郑位三"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "罗华生"
+    },
+    {
+        "relationName": "政治部主任",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "邓子恢"
+    },
+    {
+        "relationName": "参谋长",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "赖传珠"
+    },
+    {
+        "relationName": "政治委员",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "刘少奇"
+    },
+    {
+        "relationName": "副军长",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "张云逸"
+    },
+    {
+        "relationName": "代理军长",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "陈毅"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "曾希圣"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "粟裕"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "彭雪枫"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "黄克诚"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "张鼎丞"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "谭震林"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "刘炎"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "李先念"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "梁兴初"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "郑位三"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "罗华生"
+    },
+    {
+        "relationName": "政治部主任",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "邓子恢"
+    },
+    {
+        "relationName": "参谋长",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "赖传珠"
+    },
+    {
+        "relationName": "政治委员",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "刘少奇"
+    },
+    {
+        "relationName": "副军长",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "张云逸"
+    },
+    {
+        "relationName": "代理军长",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "陈毅"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "曾希圣"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "粟裕"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "彭雪枫"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "黄克诚"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "张鼎丞"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "谭震林"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "刘炎"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "李先念"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "梁兴初"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "郑位三"
+    },
+    {
+        "relationName": "涉及",
+        "source": "重建新四军军部（1941年1月）",
+        "target": "罗华生"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "何香凝"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "叶挺"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "宋庆龄"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "陈嘉庚"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "蒋介石"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "柳亚子"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "周恩来"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "陈友仁"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "张冲"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "何应钦"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "何香凝"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "叶挺"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "宋庆龄"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "陈嘉庚"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "蒋介石"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "柳亚子"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "周恩来"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "陈友仁"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "张冲"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "何应钦"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "何香凝"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "叶挺"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "宋庆龄"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "陈嘉庚"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "蒋介石"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "柳亚子"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "周恩来"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "陈友仁"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "张冲"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "打退国民党顽固派第二次反共高潮（1941年1月—3月）",
+        "target": "何应钦"
+    },
+    {
+        "relationName": "指挥",
+        "source": "上高会战",
+        "target": "园部和一郎"
+    },
+    {
+        "relationName": "指挥",
+        "source": "上高会战",
+        "target": "罗卓英"
+    },
+    {
+        "relationName": "涉及",
+        "source": "上高会战",
+        "target": "何应钦"
+    },
+    {
+        "relationName": "涉及",
+        "source": "上高会战",
+        "target": "何应钦"
+    },
+    {
+        "relationName": "涉及",
+        "source": "上高会战",
+        "target": "何应钦"
+    },
+    {
+        "relationName": "涉及",
+        "source": "狼牙山五壮士",
+        "target": "宋学义"
+    },
+    {
+        "relationName": "涉及",
+        "source": "狼牙山五壮士",
+        "target": "葛振林"
+    },
+    {
+        "relationName": "涉及",
+        "source": "狼牙山五壮士",
+        "target": "胡福才"
+    },
+    {
+        "relationName": "涉及",
+        "source": "狼牙山五壮士",
+        "target": "胡德林"
+    },
+    {
+        "relationName": "涉及",
+        "source": "狼牙山五壮士",
+        "target": "马宝玉"
+    },
+    {
+        "relationName": "涉及",
+        "source": "狼牙山五壮士",
+        "target": "马宝玉"
+    },
+    {
+        "relationName": "涉及",
+        "source": "狼牙山五壮士",
+        "target": "宋学义"
+    },
+    {
+        "relationName": "涉及",
+        "source": "狼牙山五壮士",
+        "target": "葛振林"
+    },
+    {
+        "relationName": "涉及",
+        "source": "狼牙山五壮士",
+        "target": "胡福才"
+    },
+    {
+        "relationName": "涉及",
+        "source": "狼牙山五壮士",
+        "target": "胡德林"
+    },
+    {
+        "relationName": "涉及",
+        "source": "狼牙山五壮士",
+        "target": "马宝玉"
+    },
+    {
+        "relationName": "涉及",
+        "source": "狼牙山五壮士",
+        "target": "马宝玉"
+    },
+    {
+        "relationName": "涉及",
+        "source": "狼牙山五壮士",
+        "target": "宋学义"
+    },
+    {
+        "relationName": "涉及",
+        "source": "狼牙山五壮士",
+        "target": "葛振林"
+    },
+    {
+        "relationName": "涉及",
+        "source": "狼牙山五壮士",
+        "target": "胡福才"
+    },
+    {
+        "relationName": "涉及",
+        "source": "狼牙山五壮士",
+        "target": "胡德林"
+    },
+    {
+        "relationName": "涉及",
+        "source": "狼牙山五壮士",
+        "target": "马宝玉"
+    },
+    {
+        "relationName": "涉及",
+        "source": "狼牙山五壮士",
+        "target": "马宝玉"
+    },
+    {
+        "relationName": "指挥",
+        "source": "太平洋战争（1941年12月—1945年9月）",
+        "target": "山口多闻"
+    },
+    {
+        "relationName": "指挥",
+        "source": "太平洋战争（1941年12月—1945年9月）",
+        "target": "山本五十六"
+    },
+    {
+        "relationName": "指挥",
+        "source": "太平洋战争（1941年12月—1945年9月）",
+        "target": "切斯特·威廉·尼米兹"
+    },
+    {
+        "relationName": "指挥",
+        "source": "太平洋战争（1941年12月—1945年9月）",
+        "target": "道格拉斯·麦克阿瑟"
+    },
+    {
+        "relationName": "涉及",
+        "source": "秘密大营救·1941",
+        "target": "刘蒙"
+    },
+    {
+        "relationName": "涉及",
+        "source": "秘密大营救·1941",
+        "target": "刘蒙"
+    },
+    {
+        "relationName": "涉及",
+        "source": "秘密大营救·1941",
+        "target": "刘蒙"
+    },
+    {
+        "relationName": "涉及",
+        "source": "左权壮烈殉国（1942年5月25日）",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "左权壮烈殉国（1942年5月25日）",
+        "target": "左权"
+    },
+    {
+        "relationName": "涉及",
+        "source": "左权壮烈殉国（1942年5月25日）",
+        "target": "周恩来"
+    },
+    {
+        "relationName": "涉及",
+        "source": "左权壮烈殉国（1942年5月25日）",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "左权壮烈殉国（1942年5月25日）",
+        "target": "左权"
+    },
+    {
+        "relationName": "涉及",
+        "source": "左权壮烈殉国（1942年5月25日）",
+        "target": "周恩来"
+    },
+    {
+        "relationName": "涉及",
+        "source": "左权壮烈殉国（1942年5月25日）",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "左权壮烈殉国（1942年5月25日）",
+        "target": "左权"
+    },
+    {
+        "relationName": "涉及",
+        "source": "左权壮烈殉国（1942年5月25日）",
+        "target": "周恩来"
+    },
+    {
+        "relationName": "涉及",
+        "source": "刘老庄连",
+        "target": "刘老庄"
+    },
+    {
+        "relationName": "涉及",
+        "source": "刘老庄连",
+        "target": "刘老庄"
+    },
+    {
+        "relationName": "涉及",
+        "source": "刘老庄连",
+        "target": "刘老庄"
+    },
+    {
+        "relationName": "指挥",
+        "source": "缅北滇西战役",
+        "target": "本多政材"
+    },
+    {
+        "relationName": "指挥",
+        "source": "缅北滇西战役",
+        "target": "史迪威"
+    },
+    {
+        "relationName": "指挥",
+        "source": "缅北滇西战役",
+        "target": "黄琪翔"
+    },
+    {
+        "relationName": "指挥",
+        "source": "缅北滇西战役",
+        "target": "卫立煌"
+    },
+    {
+        "relationName": "主谋",
+        "source": "第三次反共高潮",
+        "target": "胡宗南"
+    },
+    {
+        "relationName": "主谋",
+        "source": "第三次反共高潮",
+        "target": "蒋介石"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第三次反共高潮",
+        "target": "张涤非"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第三次反共高潮",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "主谋",
+        "source": "第三次反共高潮",
+        "target": "胡宗南"
+    },
+    {
+        "relationName": "主谋",
+        "source": "第三次反共高潮",
+        "target": "蒋介石"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第三次反共高潮",
+        "target": "张涤非"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第三次反共高潮",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "主谋",
+        "source": "第三次反共高潮",
+        "target": "胡宗南"
+    },
+    {
+        "relationName": "主谋",
+        "source": "第三次反共高潮",
+        "target": "蒋介石"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第三次反共高潮",
+        "target": "张涤非"
+    },
+    {
+        "relationName": "涉及",
+        "source": "第三次反共高潮",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "民主联合政府主张的提出（1944年9月）",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "民主联合政府主张的提出（1944年9月）",
+        "target": "周恩来"
+    },
+    {
+        "relationName": "涉及",
+        "source": "民主联合政府主张的提出（1944年9月）",
+        "target": "林伯渠"
+    },
+    {
+        "relationName": "涉及",
+        "source": "民主联合政府主张的提出（1944年9月）",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "民主联合政府主张的提出（1944年9月）",
+        "target": "周恩来"
+    },
+    {
+        "relationName": "涉及",
+        "source": "民主联合政府主张的提出（1944年9月）",
+        "target": "林伯渠"
+    },
+    {
+        "relationName": "涉及",
+        "source": "民主联合政府主张的提出（1944年9月）",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "民主联合政府主张的提出（1944年9月）",
+        "target": "周恩来"
+    },
+    {
+        "relationName": "涉及",
+        "source": "民主联合政府主张的提出（1944年9月）",
+        "target": "林伯渠"
+    },
+    {
+        "relationName": "涉及",
+        "source": "毛泽东《为人民服务》演讲",
+        "target": "张思德"
+    },
+    {
+        "relationName": "涉及",
+        "source": "毛泽东《为人民服务》演讲",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "毛泽东《为人民服务》演讲",
+        "target": "张思德"
+    },
+    {
+        "relationName": "涉及",
+        "source": "毛泽东《为人民服务》演讲",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "涉及",
+        "source": "毛泽东《为人民服务》演讲",
+        "target": "张思德"
+    },
+    {
+        "relationName": "涉及",
+        "source": "毛泽东《为人民服务》演讲",
+        "target": "毛泽东"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "1937年",
+        "target": "731部队"
+    },
+    {
+        "relationName": "1月31日",
+        "source": "1938年",
+        "target": "徐州战役"
+    },
+    {
+        "relationName": "3月16日",
+        "source": "1938年",
+        "target": "台儿庄战役"
+    },
+    {
+        "relationName": "6月11日",
+        "source": "1938年",
+        "target": "武汉保卫战"
+    },
+    {
+        "relationName": "10月31日",
+        "source": "1938年",
+        "target": "华南游击队成立"
+    },
+    {
+        "relationName": "10月31日",
+        "source": "1938年",
+        "target": "八女投江"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "1938年",
+        "target": "汪精卫叛国投敌事件"
+    },
+    {
+        "relationName": "1月31日",
+        "source": "1939年",
+        "target": "第一次反共高潮"
+    },
+    {
+        "relationName": "2月31日",
+        "source": "1939年",
+        "target": "自己动手，丰衣足食"
+    },
+    {
+        "relationName": "11月31日",
+        "source": "1939年",
+        "target": "黄土岭伏击战"
+    },
+    {
+        "relationName": "11月31日",
+        "source": "1939年",
+        "target": "《纪念白求恩》"
+    },
+    {
+        "relationName": "5月31日",
+        "source": "1940年",
+        "target": "华中抗日根据地"
+    },
+    {
+        "relationName": "8月20日",
+        "source": "1940年",
+        "target": "百团大战"
+    },
+    {
+        "relationName": "8月31日",
+        "source": "1940年",
+        "target": "延安自然科学院的创建（1940年8月）"
+    },
+    {
+        "relationName": "10月19日",
+        "source": "1940年",
+        "target": "第二次反共高潮"
+    },
+    {
+        "relationName": "1月6日",
+        "source": "1941年",
+        "target": "皖南事变"
+    },
+    {
+        "relationName": "1月12日",
+        "source": "1941年",
+        "target": "重建新四军军部（1941年1月）"
+    },
+    {
+        "relationName": "1月31日",
+        "source": "1941年",
+        "target": "打退国民党顽固派第二次反共高潮（1941年1月—3月）"
+    },
+    {
+        "relationName": "1月31日",
+        "source": "1941年",
+        "target": "潘家峪惨案"
+    },
+    {
+        "relationName": "3月14日",
+        "source": "1941年",
+        "target": "上高会战"
+    },
+    {
+        "relationName": "4月12日",
+        "source": "1941年",
+        "target": "四·一二大扫荡"
+    },
+    {
+        "relationName": "9月31日",
+        "source": "1941年",
+        "target": "狼牙山五壮士"
+    },
+    {
+        "relationName": "12月7日",
+        "source": "1941年",
+        "target": "太平洋战争（1941年12月—1945年9月）"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "1941年",
+        "target": "秘密大营救·1941"
+    },
+    {
+        "relationName": "5月25日",
+        "source": "1942年",
+        "target": "左权壮烈殉国（1942年5月25日）"
+    },
+    {
+        "relationName": "3月31日",
+        "source": "1943年",
+        "target": "刘老庄连"
+    },
+    {
+        "relationName": "10月31日",
+        "source": "1943年",
+        "target": "缅北滇西战役"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "1943年",
+        "target": "第三次反共高潮"
+    },
+    {
+        "relationName": "9月15日",
+        "source": "1944年",
+        "target": "民主联合政府主张的提出（1944年9月）"
+    },
+    {
+        "relationName": "9月31日",
+        "source": "1944年",
+        "target": "毛泽东《为人民服务》演讲"
+    },
+    [
+        {
+            "target": "1937年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1938年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1939年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1940年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1941年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1942年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1943年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "1944年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ]
+]

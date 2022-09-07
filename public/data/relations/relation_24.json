@@ -1,0 +1,154 @@
+[
+    {
+        "relationName": "涉及",
+        "source": "马克思主义研究会成立",
+        "target": "陈独秀"
+    },
+    {
+        "relationName": "涉及",
+        "source": "马克思主义研究会成立",
+        "target": "陈独秀"
+    },
+    {
+        "relationName": "涉及",
+        "source": "马克思主义研究会成立",
+        "target": "陈独秀"
+    },
+    {
+        "relationName": "涉及",
+        "source": "胡锦涛对美国进行国事访问（2011年1月18日—21日）",
+        "target": "奥巴马"
+    },
+    {
+        "relationName": "涉及",
+        "source": "胡锦涛对美国进行国事访问（2011年1月18日—21日）",
+        "target": "贝拉克·奥巴马"
+    },
+    {
+        "relationName": "涉及",
+        "source": "胡锦涛对美国进行国事访问（2011年1月18日—21日）",
+        "target": "胡锦涛"
+    },
+    {
+        "relationName": "涉及",
+        "source": "胡锦涛对美国进行国事访问（2011年1月18日—21日）",
+        "target": "奥巴马"
+    },
+    {
+        "relationName": "涉及",
+        "source": "胡锦涛对美国进行国事访问（2011年1月18日—21日）",
+        "target": "贝拉克·奥巴马"
+    },
+    {
+        "relationName": "涉及",
+        "source": "胡锦涛对美国进行国事访问（2011年1月18日—21日）",
+        "target": "胡锦涛"
+    },
+    {
+        "relationName": "涉及",
+        "source": "胡锦涛对美国进行国事访问（2011年1月18日—21日）",
+        "target": "奥巴马"
+    },
+    {
+        "relationName": "涉及",
+        "source": "胡锦涛对美国进行国事访问（2011年1月18日—21日）",
+        "target": "贝拉克·奥巴马"
+    },
+    {
+        "relationName": "涉及",
+        "source": "胡锦涛对美国进行国事访问（2011年1月18日—21日）",
+        "target": "胡锦涛"
+    },
+    {
+        "relationName": "9月31日",
+        "source": "2004年",
+        "target": "《中共中央关于加强党的执政能力建设的决定》"
+    },
+    {
+        "relationName": "10月31日",
+        "source": "2008年",
+        "target": "马克思主义研究会成立"
+    },
+    {
+        "relationName": "9月31日",
+        "source": "2009年",
+        "target": "《中共中央关于加强和改进新形势下党的建设若干重大问题的决定》"
+    },
+    {
+        "relationName": "1月1日",
+        "source": "2010年",
+        "target": "中国-东盟自由贸易区"
+    },
+    {
+        "relationName": "3月8日",
+        "source": "2010年",
+        "target": "关于《中华人民共和国全国人民代表大会和地方各级人民代表大会选举法修正案（草案）》的说明"
+    },
+    {
+        "relationName": "7月11日",
+        "source": "2010年",
+        "target": "《关于领导干部报告个人有关事项的规定》"
+    },
+    {
+        "relationName": "1月31日",
+        "source": "2011年",
+        "target": "胡锦涛对美国进行国事访问（2011年1月18日—21日）"
+    },
+    {
+        "relationName": "5月31日",
+        "source": "2012年",
+        "target": "《中国共产党党内法规制定条例》"
+    },
+    {
+        "relationName": "9月10日",
+        "source": "2012年",
+        "target": "《中华人民共和国政府关于钓鱼岛及其附属岛屿领海基线的声明》发布"
+    },
+    {
+        "relationName": "9月31日",
+        "source": "2012年",
+        "target": "《钓鱼岛是中国的固有领土》发布"
+    },
+    [
+        {
+            "target": "2004年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "2008年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "2009年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "2010年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "2011年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "2012年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ]
+]

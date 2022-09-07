@@ -1,0 +1,348 @@
+[
+    {
+        "relationName": "提出",
+        "source": "“三个代表”重要思想",
+        "target": "江泽民"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《全面建设小康社会，开创中国特色社会主义事业新局面》",
+        "target": "江泽民"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《全面建设小康社会，开创中国特色社会主义事业新局面》",
+        "target": "江泽民"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《全面建设小康社会，开创中国特色社会主义事业新局面》",
+        "target": "江泽民"
+    },
+    {
+        "relationName": "涉及",
+        "source": "科学发展观",
+        "target": "胡锦涛"
+    },
+    {
+        "relationName": "涉及",
+        "source": "科学发展观",
+        "target": "胡锦涛"
+    },
+    {
+        "relationName": "涉及",
+        "source": "科学发展观",
+        "target": "胡锦涛"
+    },
+    {
+        "relationName": "涉及",
+        "source": "四位一体",
+        "target": "胡锦涛"
+    },
+    {
+        "relationName": "涉及",
+        "source": "四位一体",
+        "target": "胡锦涛"
+    },
+    {
+        "relationName": "涉及",
+        "source": "四位一体",
+        "target": "胡锦涛"
+    },
+    {
+        "relationName": "设计",
+        "source": "全面取消农业税",
+        "target": "陈磊"
+    },
+    {
+        "relationName": "设计",
+        "source": "全面取消农业税",
+        "target": "何洁"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "吴邦国"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "罗干"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "贾庆林"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "江泽民"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "温家宝"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "吴官正"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "李长春"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "胡锦涛"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "曾庆红"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "吴邦国"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "罗干"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "贾庆林"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "江泽民"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "温家宝"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "吴官正"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "李长春"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "胡锦涛"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "曾庆红"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "吴邦国"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "罗干"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "贾庆林"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "江泽民"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "温家宝"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "吴官正"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "李长春"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "胡锦涛"
+    },
+    {
+        "relationName": "涉及",
+        "source": "中国共产党第十七次全国代表大会",
+        "target": "曾庆红"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《高举中国特色社会主义伟大旗帜，为夺取全面建设小康社会新胜利而奋斗》",
+        "target": "胡锦涛"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《高举中国特色社会主义伟大旗帜，为夺取全面建设小康社会新胜利而奋斗》",
+        "target": "胡锦涛"
+    },
+    {
+        "relationName": "涉及",
+        "source": "《高举中国特色社会主义伟大旗帜，为夺取全面建设小康社会新胜利而奋斗》",
+        "target": "胡锦涛"
+    },
+    {
+        "relationName": "2月25日",
+        "source": "2000年",
+        "target": "“三个代表”重要思想"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "2000年",
+        "target": "宝山钢铁股份有限公司成立"
+    },
+    {
+        "relationName": "11月8日",
+        "source": "2002年",
+        "target": "中国共产党第十六次全国代表大会"
+    },
+    {
+        "relationName": "11月31日",
+        "source": "2002年",
+        "target": "《全面建设小康社会，开创中国特色社会主义事业新局面》"
+    },
+    {
+        "relationName": "2月31日",
+        "source": "2003年",
+        "target": "抗击非典"
+    },
+    {
+        "relationName": "10月31日",
+        "source": "2003年",
+        "target": "《中共中央关于完善社会主义市场经济体制若干问题的决定》"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "2003年",
+        "target": "科学发展观"
+    },
+    {
+        "relationName": "9月31日",
+        "source": "2004年",
+        "target": "构建社会主义和谐社会"
+    },
+    {
+        "relationName": "12月31日",
+        "source": "2005年",
+        "target": "四位一体"
+    },
+    {
+        "relationName": "1月1日",
+        "source": "2006年",
+        "target": "全面取消农业税"
+    },
+    {
+        "relationName": "3月31日",
+        "source": "2006年",
+        "target": "《中华人民共和国国民经济和社会发展第十一个五年规划纲要》"
+    },
+    {
+        "relationName": "7月1日",
+        "source": "2006年",
+        "target": "青藏铁路全线建成通车（2006年7月1日）"
+    },
+    {
+        "relationName": "10月31日",
+        "source": "2006年",
+        "target": "《中共中央关于构建社会主义和谐社会若干重大问题的决定》"
+    },
+    {
+        "relationName": "10月15日",
+        "source": "2007年",
+        "target": "中国共产党第十七次全国代表大会"
+    },
+    {
+        "relationName": "10月31日",
+        "source": "2007年",
+        "target": "《高举中国特色社会主义伟大旗帜，为夺取全面建设小康社会新胜利而奋斗》"
+    },
+    {
+        "relationName": "5月9日",
+        "source": "2010年",
+        "target": "配偶已移居国（境）外的国家工作人员任职岗位管理办法"
+    },
+    [
+        {
+            "target": "2000年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "2002年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "2003年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "2004年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "2005年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "2006年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "2007年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ],
+    [
+        {
+            "target": "2010年",
+            "relationName": "",
+            "source": "党史图谱"
+        }
+    ]
+]
